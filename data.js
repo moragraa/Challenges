@@ -96,7 +96,7 @@ function calculateAverage(){
 //         listItem.appendChild(score);
 
 //         i = i + 1; // Alternatively, use i++;
-
+//
 //         // Other ways:
 //         // i += 2;
 //         // i += 3;
